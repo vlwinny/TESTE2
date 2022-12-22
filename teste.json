@@ -1,14 +1,14 @@
 {
     {
         "key": "GT",
-        "latitude": "-18.006806",
-        "longitude": "-49.371556",
+        "latitude": -18.006806,
+        "longitude": -49.371556,
         "name": "Goiatuba"
     },
     {
         "key": "SF",
-        "latitude": "-18.006791",
-        "longitude": "-49.371564",
+        "latitude": -18.006791,
+        "longitude": -49.371564,
         "name": "Sao Francisco"
     }
 }
